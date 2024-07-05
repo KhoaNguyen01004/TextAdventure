@@ -1,0 +1,22 @@
+# VS Code directories and files
+.vscode/
+.history/
+.bin/
+
+# Windows specific files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Node.js dependencies
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# Optional: Specific file types you might want to ignore
+*.class
+*.jar
